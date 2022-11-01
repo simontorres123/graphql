@@ -1,0 +1,4 @@
+com/graphql/api/ApiApplication.class
+com/graphql/api/datafetcher/ShowsDatafetcher.class
+com/graphql/api/domain/Show$ShowBuilder.class
+com/graphql/api/domain/Show.class
